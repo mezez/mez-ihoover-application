@@ -10,7 +10,7 @@ Chimezirim Victor EKEMAM
   java 17.0.6 2023-01-17 LTS
   Java(TM) SE Runtime Environment (build 17.0.6+9-LTS-190)
   Java HotSpot(TM) 64-Bit Server VM (build 17.0.6+9-LTS-190, mixed mode, sharing)
-
+- Veillez à configurer le SDK dans Intellij si cela n'est pas fait automatiquement.
 
 ## Exécution
 Il suffit d'exécuter le fichier Main.java, de préférence dans l'IDE Intellij.
