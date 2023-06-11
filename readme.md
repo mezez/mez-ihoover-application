@@ -6,7 +6,8 @@ Chimezirim Victor EKEMAM
 
 ## Environnement de développement
 - Langage de programmation: Java
-- Version: 17.0.6
+- Version (SDK): 17.0.6
+![](/Users/mez/Desktop/Screenshot 2023-06-11 at 12.34.47.png)
 
 ## Exécution
 Il suffit d'exécuter le fichier Main.java, de préférence dans l'IDE Intellij.
