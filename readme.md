@@ -13,7 +13,7 @@ Chimezirim Victor EKEMAM
 - Veillez à configurer le SDK dans Intellij si cela n'est pas fait automatiquement.
 
 ## Exécution
-Il suffit d'exécuter le fichier Main.java, de préférence dans l'IDE Intellij.
+Il suffit de compiler le projet et d'exécuter le fichier Main.java, de préférence dans l'IDE Intellij.
 
 ## Documentation:
 
