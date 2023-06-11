@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
@@ -72,11 +73,7 @@ public class Main {
     public static char getInitialOrientation(Scanner scanner){
         System.out.print("Orientation initiale eg N: ");
         char initialOrientation = Character.toUpperCase(scanner.next().charAt(0));
-        ArrayList<Character> acceptableCoordinates = new ArrayList<>();
-        acceptableCoordinates.add('N');
-        acceptableCoordinates.add('E');
-        acceptableCoordinates.add('S');
-        acceptableCoordinates.add('W');
+        ArrayList<Character> acceptableCoordinates = new ArrayList<>(Arrays.asList('N','E','S','W'));
         while (!acceptableCoordinates.contains(initialOrientation)) {
             System.out.println("L'orientation ne peut être que N, S, E ou W.");
             System.out.print("Orientation initiale eg N: ");
